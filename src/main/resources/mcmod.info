@@ -1,0 +1,10 @@
+[
+{
+  "modid": "mod-test",
+  "name": "Great Grate Mod",
+  "description": "Great Grates",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Grate Guy"],
+}
+]
